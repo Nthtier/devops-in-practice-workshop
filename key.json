@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "devops-workshop-221418",
+  "private_key_id": "8f516d4a51278700ee60b7d1ad78394df49f2be1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC3+qfP2iC5LKou\n5Nkl+yyzPGo5i2XZ//zl/3+KyPuaJmw7P41NaHsb4heVaO9o5ZadaRJO/Zu0Egjj\nyuZRzG5PkVICZPuZ9EjNm5WifjckuOCnfQnAi0t7wGK3xxFda79O6e6yrvgurfay\nKxfDAeY/q/XREVTW2P6tWdMvEVLWioWYmNs34WcGrKDxrBtzTJNHaF+u+IpEN0mu\nTeEA7U2JKn8Up+zFin/dBPlO9DTg5igiQycEPRqxP0V698ITZfS1yQ8p5j/19iYf\nHtAWG/cJ6dywO8q26S4WvNmapwVaq4NzpW0MMHn4eIDdj8fHS06esYxun6jHtmwG\nFyzm7LVfAgMBAAECggEAAYuNKGAZCaUW+1KErAfoRZoONeCj2IUAhNh+8kkrSAlq\n3O07LbdEGMZJsoOVkNPBDHkYanpZt+nvcRTETQk2UMvSA++uXyLPMQI4//5xVqot\n20guX8UZIphmX/lMM7LMnvOLdTkym7hVf182NrLo2kXyEowWR7B72iwMQla6LmyF\nohxf7N8ju4VVrTet/6FNsmf114j23ZrNjWaCPVypK3SmV8zC7ia4MGj7C/yRYRRr\ny5jJ5ZJJ7TqWqH23AURnO1XTEgZ55FnQa7ASrs5XdF4jDERNiqD6NBUMwAO4UISf\nhmgxclH1gSGfZDsRwj00qP+2XU7EnKVjG71ObKI5JQKBgQDzrjimJohcav2MjQ/J\nSd6qlQPPREXBW4/pSXSKCAbIgzSv/Qxm83t6aTUrT1TsOAJD66x2fqrKbhNpIs9H\nZoH5/ZWWxx8Z9426Joeng7rxGrux8b2o8IwC65ytZDTP+EMAEAq5pEfZ/U6pxs4V\n8hEAADoXZ4oHeA0vKrhqvkzbKwKBgQDBR8MtWpSeGDSgHOR2jTpt6hacGWxy5fE4\nExSi9Vxhk1GRRy45/sCgW4Jl+IolZHgHOTSJ3rCES10gEkcQ5n6q6L3iqqlMsZVS\nTIQzlpdV1Da2mbxQUWbPvQndgOiCaFOAyXPk+Mhw7r+zfk690eYCyQ3GXkL8cDob\nd6aFD8jknQKBgExNLE3SWPZfRf9BmETWDZPqTyQSY6k0624H4ybpdn5InzHQEZcW\n/H4K/WwPTi8dJpBv9jOwW/hA2XEdRjw8O8y0e6eXuARggI9eSzHHzLx8O3Nvl4yT\nrbOoZQniC6tnOEuHumQArcLzTzNYHeW/Q1V1vLrhX9YQ4Ef5n39FETm7AoGANKeW\nNn7cyg0SGSSF4P4sktEZA8GxV8Po6TvZfWOWnUaDDC72GvqaA5WqepkxGWq7gExH\nUeAG+qOFZT1VevcwPuNVB7EymiAu69LImT1HUSyVEz3inYbvmVyImX2K2iwNw6Ie\nHpzgDlQciYu5a+EI5m1bgVUgrqDsU5tPFCTut8kCgYB15JzZs9/GYwnveST0JSST\nv9xfWXpQA320ve8IxNfMPDezNgwQgkRHgBSBEbafbwEcn4jNCKT9emvRJKo5iMjh\n7VbY598eHES0Bhl/TOrr2HNLI8RtX42xEn06ur4zdo4qi2S5Ls6vZU1p3I2pzXsO\nfsZUpK6HehpAVUgx1YY97A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gocd-agent@devops-workshop-221418.iam.gserviceaccount.com",
+  "client_id": "103529067474699600416",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gocd-agent%40devops-workshop-221418.iam.gserviceaccount.com"
+}
